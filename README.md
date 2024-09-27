@@ -6,7 +6,7 @@ Welcome to my GitHub profile! I'm a Computer Science major graduating in Decembe
 
 ## 🌟 About Me
 
-- 🔭 I’m currently working on: Freelance Development(Web Development)
+- 🔭 I’m currently working on: Freelance Development(Web Development) while pursuing a CS degree
 - 🌱 I’m currently learning: Mobile Development
 - 👯 I’m looking to collaborate on: Software Engineering, Web Development, Mobile Development
 - 📫 How to reach me: jiwaneapplications@gmail.com or my LinkedIn @ Justin Iwane
