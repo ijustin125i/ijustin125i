@@ -1,17 +1,15 @@
-# Hi there, I'm [Your Name] 👋
+# Hi there, I'm Justin 👋
 
-Welcome to my GitHub profile! I'm a [Your Title or Role], passionate about [Your Interests or Expertise]. I love working on projects related to [Key Topics], and I'm always eager to learn and collaborate.
+Welcome to my GitHub profile! I'm a Computer Science major graduating in December of 2024. I'm passionate about all realms of software development, I'm willing to explore areas in web and mobile development since my experience aligns with it best. I'm also interested in game development as well! I just love building software and strive to reach the point where I can build any idea that comes to mind!
 
 ---
 
 ## 🌟 About Me
 
-- 🔭 I’m currently working on: [Your Current Project or Focus]
-- 🌱 I’m currently learning: [New Skill or Technology You're Learning]
-- 👯 I’m looking to collaborate on: [Types of Projects or Areas of Interest]
-- 💬 Ask me about: [Topics you enjoy discussing or have expertise in]
-- 📫 How to reach me: [Your Contact Information or Social Media Handles]
-- ⚡ Fun fact: [A fun fact about you]
+- 🔭 I’m currently working on: Freelance Development(Web Development)
+- 🌱 I’m currently learning: Mobile Development
+- 👯 I’m looking to collaborate on: Software Engineering, Web Development, Mobile Development
+- 📫 How to reach me: jiwaneapplications@gmail.com or my LinkedIn @ Justin Iwane
 
 ---
 
@@ -19,39 +17,24 @@ Welcome to my GitHub profile! I'm a [Your Title or Role], passionate about [Your
 
 Here are some of the technologies I work with:
 
-- **Frontend**: [e.g., React, Vue, HTML, CSS, etc.]
-- **Backend**: [e.g., Node.js, Express, MongoDB, etc.]
-- **Mobile Development**: [e.g., React Native, Flutter]
-- **Tools & Platforms**: [e.g., Git, Docker, AWS, etc.]
-
----
-
-## 📊 GitHub Stats
-
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=radical)
-
----
-
-## 📈 Recent Activity
-
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
-
+- **Frontend**: React, JavaScript, HTML, CSS
+- **Backend**: Node.js, Express, MongoDB
+- **Mobile Development**: React Native
+- **Tools & Platforms**: Git, GitHub, VS Code
+  
 ---
 
 ## 💼 Projects & Contributions
 
-- [Project 1 Name](Link to project) - Short description of the project.
-- [Project 2 Name](Link to project) - Short description of the project.
-- [Other contributions](Link to contributions) - Contributions to open-source or other notable repositories.
+- [Oyrenify](https://oyrenify.org/) - Developed a full-stack landing page for an educational startup that showcases the platform's features and benefits for users interested in creating and using online courses.
+- [ScreenStream](https://github.com/ijustin125i/ScreenStream.git) - Developed a user interface that showcases a curated collection of movies. Implemented OMDB(Open Movie Database) API to dynamically fetch and display movie names and cover images on the front end.
+- [VistaVoyage](https://github.com/ijustin125i/VistaVoyage.git) - Developed a web page that offers users a realistic preview of travel destinations. Created an interactive interface that is optimized for both desktop and mobile devices. Utilized CSS Flexbox to enhance the site’s design and layout.
 
 ---
 
 ## 📫 Let's Connect
 
-- LinkedIn: [Your LinkedIn Profile](https://linkedin.com/in/yourprofile)
-- Twitter: [Your Twitter Profile](https://twitter.com/yourhandle)
-- Personal Website/Portfolio: [Your Website](https://yourwebsite.com)
+- LinkedIn: (https://linkedin.com/in/jiwane)
 
 ---
 
