@@ -1,26 +1,26 @@
 # Hi there, I'm Justin 👋
 
-Welcome to my GitHub profile! I'm a Computer Science major graduating in December of 2024. I'm passionate about all realms of software development, I'm willing to explore areas in web and mobile development since my experience aligns with it best. I'm also interested in game development as well! I just love building software and strive to reach the point where I can build any idea that comes to mind!
+Hey there! I'm a computer science major graduating in December of 2024. I'm passionate about all realms of software development and I strive to reach the point where I can build any idea that comes to mind! I have a strong interest in web, mobile, and game development and would love to pursue a career in these fields
 
 ---
 
 ## 🌟 About Me
 
 - 🔭 I’m currently working on: Freelance Development(Web Development) while pursuing a CS degree
-- 🌱 I’m currently learning: Mobile Development
-- 👯 I’m looking to collaborate on: Software Engineering, Web Development, Mobile Development
+- 🌱 I’m currently learning: Mobile Development, Game Development
+- 👯 I’m looking to collaborate on: Software Engineering, Web Development, Mobile Development Projects
 - 📫 How to reach me: jiwaneapplications@gmail.com or my LinkedIn @ Justin Iwane
 
 ---
 
 ## 🛠️ My Tech Stack
 
-Here are some of the technologies I work with:
+Here are some of the technologies I'm confident in:
 
 - **Frontend**: React, JavaScript, HTML, CSS
-- **Backend**: Node.js, Express, MongoDB
+- **Backend**: Node.js, Express, MongoDB, C#
 - **Mobile Development**: React Native
-- **Tools & Platforms**: Git, GitHub, VS Code
+- **Tools & Platforms**: Git, GitHub, Unity, VS Code
   
 ---
 
