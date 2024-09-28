@@ -24,7 +24,7 @@ Here are some of the technologies I'm confident in:
   
 ---
 
-## 💼 Projects & Contributions
+## 💼 Projects 
 
 - [Oyrenify](https://oyrenify.org/) - Developed a full-stack landing page for an educational startup that showcases the platform's features and benefits for users interested in creating and using online courses.
 - [ScreenStream](https://github.com/ijustin125i/ScreenStream.git) - Developed a user interface that showcases a curated collection of movies. Implemented OMDB(Open Movie Database) API to dynamically fetch and display movie names and cover images on the front end.
