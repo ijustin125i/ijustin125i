@@ -1,14 +1,13 @@
 # Hi there, I'm Justin 👋
 
-Hey there! I'm a computer science major graduating in December of 2024. I'm passionate about all realms of software development and I strive to reach the point where I can build any idea that comes to mind! I have a strong interest in web, mobile, and game development and would love to pursue a career in any of these fields
+Hey there! I'm a computer science major graduating in December of 2024. I'm passionate about all realms of software development and I strive to reach the point where I can build any idea that comes to mind! I have a strong interest in web, mobile, and game development and would love to pursue a career in any of these fields. However, I'm also open to entry-level PM roles i.e project coordinator, associate project manager. 
 
 ---
 
 ## 🌟 About Me
 
-- 🔭 I'm currently working as a freelance developer as I pursue my CS degree. 
-- 🌱 I’m currently expanding my skills in: Mobile Development, Game Development, Web Development
-- 👯 I’m looking to collaborate on: Software Engineering, Web Development, Mobile Development Projects
+- 🔭 I'm currently working as a freelance developer/coding tutor as I pursue my CS degree. While I also focus on this startup I've co-founded. I'm also taking a project management course to eventually land my CPM certificate(Certified Associate in Project Management) - because I see a career in either project management, or development. 
+- 👯 I’m looking to collaborate on: Software Engineering, Web Development, Mobile Development Projects, Project Management 
 - 📫 How to reach me: jiwaneapplications@gmail.com or my LinkedIn @ www.linkedin.com/in/jiwane
 
 ---
