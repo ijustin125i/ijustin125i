@@ -1,13 +1,11 @@
-# Hi there, I'm Justin 👋
+# 🌟 About Me
 
-Hey there! I'm a computer science major graduating in December of 2024. I'm passionate about all realms of software development and I strive to reach the point where I can build any idea that comes to mind! I have a strong interest in web, mobile, and game development and would love to pursue a career in any of these fields. 
+Hey there, I'm Justin! I often spend my free time building apps that interest me. I'm a big believer in repetitive practice, so I try to build as many projects as I can. I also strive to diversify my skill set by building web apps, mobile apps, websites, and games! I honestly just love the power of programming and what it has enabled me to do. I'm open to working in any of the fields mentioned, because, for one, I'm more qualified for them, and for two, they spark my interest the most!
 
 ---
 
-## 🌟 About Me
+## 🌟 Contact Info
 
-- 🔭 I'm currently working as a freelance developer+coding tutor as I pursue my CS degree. While I also focus on this startup I've co-founded, along with a mobile app I'm building.
-- 👯 I’m looking to find roles in: Software Engineering, Web Development, Mobile Development 
 - 📫 How to reach me: jiwaneapplications@gmail.com or my LinkedIn @ www.linkedin.com/in/jiwane
 
 ---
@@ -26,7 +24,8 @@ Here are some of the technologies I use for my personal projects:
 
 ## 💼 Projects 
 
-- [Oyrenify](https://oyrenify.org/) - Developed a full-stack landing page for an educational startup that showcases the platform's features and benefits for users interested in creating and using online courses.
+- [Oyrenify](https://oyrenify.org/) - Freelanced for an educational startup to build a landing page that showcases platform's features and benefits for users interested in creating and using online courses.
+- [Undeclared Adventures](https://github.com/ijustin125i/UndeclaredAdventures) - Voted top 3D game for creating a first-person, multi-level minigame in a group of 5, where players can enter buildings and play minigames corresponding to the majors associated with each building.
 - [ScreenStream](https://github.com/ijustin125i/ScreenStream.git) - Developed a user interface that showcases a curated collection of movies. Implemented OMDB(Open Movie Database) API to dynamically fetch and display movie names and cover images on the front end.
 - [VistaVoyage](https://github.com/ijustin125i/VistaVoyage.git) - Developed a web page that offers users a realistic preview of travel destinations. Created an interactive interface that is optimized for both desktop and mobile devices. Utilized CSS Flexbox to enhance the site’s design and layout.
 
