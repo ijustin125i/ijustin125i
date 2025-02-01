@@ -25,6 +25,7 @@ Here are some of the technologies I use for my personal projects:
 ## 💼 Projects 
 
 - [Oyrenify](https://oyrenify.org/) - Freelanced for an educational startup to build a landing page that showcases platform's features and benefits for users interested in creating and using online courses.
+- [FinBuddy] (https://github.com/ijustin125i/UndeclaredAdventures/FinBuddy) - Attended a hackathon where I built a mobile app that analyzes the financial demographic of client households. Utilized React Native, AWS Lambda, AWS CloudWatch, API Gateway, and Postman to build the app. 
 - [Undeclared Adventures](https://github.com/ijustin125i/UndeclaredAdventures) - Voted top 3D game for creating a first-person, multi-level minigame in a group of 5, where players can enter buildings and play minigames corresponding to the majors associated with each building.
 - [ScreenStream](https://github.com/ijustin125i/ScreenStream.git) - Developed a user interface that showcases a curated collection of movies. Implemented OMDB(Open Movie Database) API to dynamically fetch and display movie names and cover images on the front end.
 - [VistaVoyage](https://github.com/ijustin125i/VistaVoyage.git) - Developed a web page that offers users a realistic preview of travel destinations. Created an interactive interface that is optimized for both desktop and mobile devices. Utilized CSS Flexbox to enhance the site’s design and layout.
