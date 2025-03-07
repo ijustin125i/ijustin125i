@@ -15,10 +15,10 @@ Hey there, I'm Justin! I often spend my free time building apps that interest me
 Here are some of the technologies I use for my personal projects:
 
 - **Frontend**: React.js, JavaScript, HTML, CSS
-- **Backend**: Node.js, Express.js, MongoDB
+- **Backend**: Node.js, Express.js, MongoDB, Spring/SpringBoot, SQL. 
 - **Mobile Development**: React Native
 - **Game Development**: Unity, C#
-- **Version Control & IDEs**: Git, GitHub, VS Code
+- **Version Control & IDEs**: Git, GitHub, VS Code, Eclipse
   
 ---
 
