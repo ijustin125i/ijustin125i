@@ -1,6 +1,6 @@
 # 🌟 About Me
 
-Hey there, I'm Justin! I often spend my free time building apps that interest me. I'm a big believer in repetitive practice, so I try to build as many projects as I can. I also strive to diversify my skill set by building web apps, mobile apps, websites, and games! I honestly just love the power of programming and what it has enabled me to do. I'm open to working in any of the fields mentioned, because, for one, I'm more qualified for them, and for two, they spark my interest the most!
+Hey there, I'm Justin! I often spend my free time building apps that interest me. I'm a big believer in repetitive practice, so I try to build as many projects as I can. I also strive to diversify my skill set by building web apps, mobile apps, websites, and games! I honestly just love the power of programming and what it enables me to do. 
 
 ---
 
