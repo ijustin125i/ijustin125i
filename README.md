@@ -32,4 +32,4 @@ Here are some of the technologies I use for my personal projects:
 
 ---
 
-Thanks for stopping by! Feel free to explore my repositories! 
+Thanks for stopping by! Feel free to shoot me a message or explore my repositories! 
